@@ -1,544 +1,532 @@
-solnechnyy,2016307
-yellowknife,6185377
-benavente,3128291
-amapa,3603330
-souillac,3026644
-faanui,4034551
-ushuaia,3833367
-hermanus,3366880
-atuona,4020109
-new norfolk,2155415
-esperance,2071860
-busselton,2075265
-constitucion,4011743
-jamestown,2069194
-sedro-woolley,5809902
-longyearbyen,2729907
-cape town,3369157
-rikitea,4030556
-tasiilaq,3424607
-xacmaz,584717
-hobart,2163355
-saint-philippe,6138908
-broome,2656067
-victoria,1733782
-mount gambier,2156643
-laguna,3581398
-talnakh,1490256
-gamba,1281256
-methoni,257122
-vaini,1273574
-port alfred,964432
-myitkyina,1307741
-gayny,561698
-the valley,3573374
-havre-saint-pierre,5972291
-dikson,1507390
-kodiak,4407665
-coihaique,3894426
-northam,2064550
-rabaul,2087894
-vaitape,4033077
-carnarvon,1014034
-hambantota,1244926
-baft,390054
-matara,425378
-punta arenas,3874787
-kapaa,5848280
-hithadhoo,1282256
-rio grande,3451138
-castro,3896218
-bluff,2175403
-kaeo,2189343
-hilo,5855927
-kahului,5847411
-aloleng,1731298
-puerto ayora,3652764
-malaya purga,531426
-yulara,6355222
-deputatskiy,2028164
-rio das ostras,3451205
-pataskala,4520905
-boca do acre,3664956
-airai,1651810
-butaritari,2110227
 bredasdorp,1015776
-fairbanks,5861897
-tiksi,2015306
-wuda,1791325
-mataura,6201424
-hobyo,57000
-sioux lookout,6148373
-khatanga,2022572
-cayenne,3382160
-sorland,3137469
-port blair,1259385
-albany,5106834
-hasaki,2112802
-oistins,3373652
-saint george,262462
-east london,1006984
-arraial do cabo,3471451
-evensk,2125693
-katsuura,1865309
-liverpool,2644210
-lethem,3379316
-troitskoye,1489209
-pune,1259229
-george,924963
-lompoc,5367788
-moreira sales,3456763
-ponta do sol,3453439
-nome,4732862
-aklavik,5882953
-salamanca,3988214
-qaanaaq,3831208
-rafsanjan,118994
-biltine,244878
-zatoka,775758
-huarmey,3939168
-neftekumsk,522941
-glendive,5654391
-acari,3390864
-tuatapere,2180815
-dongsheng,1788268
-cabo san lucas,3985710
-kitui,191038
-nikolskoye,546105
-pisco,3932145
-cap malheureux,934649
-shihezi,1529195
-sibu,1735902
-georgetown,3378644
-bambous virieux,1106677
-mar del plata,3863379
-mana,2322907
-peniche,2264923
-nouakchott,2377450
-general roca,3855065
-nanortalik,3421765
-shu,1519030
-vao,588365
-vestmannaeyjar,3412093
-cherskiy,2126199
-manacor,2514216
-namwala,901766
-abu dhabi,292968
-half moon bay,5354943
-kavaratti,1267390
-moose factory,6078372
-ribeira grande,3372707
-flinders,6255012
-belmonte,8010472
-carnot,2387495
-teguldet,1489822
-cidreira,3466165
-zaoyang,1785462
-umm lajj,100926
-fortuna,2517679
-bouafle,3031409
-luena,3347719
-acajutla,3587498
-port macquarie,2152659
-sitka,4267710
-bay roberts,5895424
-murmashi,524299
-saint-pierre,2995603
-stawell,2148431
-padang,1633419
-talaya,1485724
-preobrazheniye,2017658
-conselheiro pena,3465639
-chuy,3443061
-aykhal,2027296
-iskateley,866062
-berlevag,780687
-bethel,5880568
-port elizabeth,4501427
-clyde river,5924351
-san juan,3837213
-santiago,1687801
-sergeyevka,1519385
-champerico,3530097
-riyadh,108410
-gumdag,161943
-sur,286245
-nemuro,2128975
-zhaoyuan,2033149
-ancud,3899695
-saldanha,2737599
-abu samrah,172515
-upernavik,3418910
-pyapon,1299237
-bubaque,2374583
-sartana,701822
-samarai,2132606
-jamnagar,1269317
-raudeberg,3146487
-nigde,303827
-charters towers,2171722
-ilulissat,3423146
-atambua,1651103
-kudahuvadhoo,1337607
-auki,2339937
-malartic,6064704
-belyy yar,1510377
-marawi,1701054
-blythe,5329649
-torbay,6167817
-makakilo city,5850554
-wanning,3220813
-vardo,4372777
-khash,1160571
 barrow,3833859
-pitimbu,3391889
-necochea,3430443
-avarua,4035715
-klaksvik,2618795
-liberal,5445820
-yuxia,1785572
-pangnirtung,6096551
-luwuk,1637001
-curuguaty,3437088
-morondava,1058381
-santa fe,3836277
-alta floresta,6316343
-bokovskaya,575413
-ust-tsilma,477940
-kushiro,2129072
-ahipara,2194098
-antofagasta,3899539
-laredo,4705349
-preeceville,6112862
-cockburn town,3576994
-eyl,60019
-saskylakh,2017155
-san policarpo,1688696
-dakar,2253354
-mecca,104515
-parana,3663516
-pevek,2122090
-chokurdakh,2126123
-anadyr,2127202
-hofn,2630299
-sabratah,2212771
-suntar,2015913
-thai nguyen,1566319
-pucallpa,3693345
-pauini,3662927
-salisbury,2638664
-grenfell,2164457
-sendai,2111149
-kabompo,916246
-mahebourg,934322
-baykalovo,581049
-provideniya,4031574
-tuktoyaktuk,6170031
-mosquera,3674292
-maragogi,3395458
-lenger,1521379
-le port,3036965
-naze,2337542
-paamiut,3421193
-harper,4696310
-avera,4231997
-mehamn,778707
-dubbo,2168305
-huangmei,1807339
-bilina,3068293
-rabo de peixe,3372745
-biak,1637001
-makokou,2399371
-imbituba,3461370
-kuching,1735634
-sao jose da coroa grande,3388456
-itarema,3393692
-state college,5213681
-zwedru,2272491
-visby,2662689
-san cristobal,3609418
-rocha,3440777
-angoram,2100765
-illela,2336237
-batemans bay,2176639
-saraipali,1257259
-chumikan,2025256
-thompson,6165406
-yumen,1528998
-sao filipe,3374210
-seoul,1835848
-portree,2640006
-vinstra,3131538
-pudozh,504269
-coahuayana,3981460
-kamien pomorski,3096765
-zuenoula,2279172
-craig,5576064
-coquimbo,3893629
-athabasca,5887916
-teya,3526662
-nuuk,3421319
-lebu,344979
-kita,1850144
-siguiri,2415703
-luderitz,3355672
-taltal,3870243
-severo-kurilsk,2121385
-isangel,2136825
-borba,3405051
-kendari,1640344
-tabas,113659
-lasa,146639
-atar,2381334
-port hedland,2063042
-polessk,507291
-junin,3947322
-umm kaddadah,364933
-curico,3892870
-kloulklubed,7671223
-cabedelo,3404558
-wakkanai,2127515
-coronado,3714201
-alofi,4036284
-rucheng,1797076
-cairns,2172797
-alexandria,686502
-kirakira,2178753
-tangping,1790296
-ghazipur,1271306
-port hueneme,5384339
-sao joao da barra,3448903
-whyalla,2058430
-mendoza,3844421
-sfantu gheorghe,667306
-ippy,238566
-karratha,6620339
-kieta,2094027
-wajima,1848976
-vyazemskiy,2013229
-santa ana,3984717
-tiznit,2527089
-nigel,970566
-yuncheng,1785738
-suchiapa,3516499
-sisimiut,3419842
-komsomolskiy,1486910
-papetoai,4033910
-bud,7626370
-yendi,2293801
-gloucester,2648404
-tigil,2120612
-pacific grove,5380437
-caravelas,3466980
-bandarbeyla,64814
-mount isa,2065594
-babu,1801374
-corowa,2170260
-santa barbara,5392952
-praia,3460954
-marzuq,72181
-tlanchinol,3515397
-at-bashi,1528796
-mocuba,1024312
-margate,2158744
-sterling,4787534
-kachkanar,554599
-saint-leu,6690297
-port moresby,2088122
-husavik,5961417
-sunland park,5493403
-vila velha,6320062
-humaita,3838233
-rawson,3839307
-carutapera,3402648
-saquarema,3448011
-kollam,1259091
-palmas,3474574
-conakry,2422465
-lagoa,2267254
-tailai,2034599
-erzin,296852
-oktyabrskoye,1511846
-talara,3691582
-sahuaripa,3988265
-kota kinabalu,1733432
-neuquen,3843123
-mogadishu,53654
-puerto el triunfo,3584003
-kaduna,2335727
-ketchikan,5554428
-inta,1505579
-la ronge,6050066
-te anau,2181625
-chapais,5919850
-hamilton,5969785
-ler,3146125
-kolding,2618528
-kaitangata,2208248
-port augusta,2063056
-tezu,1254709
-grindavik,3416888
-codrington,2160063
-azare,2348595
-trairi,3386177
-santa isabel do rio negro,3662489
-kandrian,2094746
-magdagachi,2020591
-arlit,2447513
-coaldale,5924417
-trelew,3833883
-sumbe,3346015
-samsun,740263
-tilichiki,2120591
-tautira,4033557
-ust-omchug,2120047
-khuzhir,2022143
-korhogo,2286304
-birin,1283334
-san patricio,3437029
-kruisfontein,986717
-dwarka,1273294
-kamenka,618453
-lavrentiya,4031637
+vaini,1273574
 leningradskiy,2123814
-waipawa,2185329
-namatanai,2090021
-bedesa,342559
-porto walter,3662761
-lalitpur,1265157
-gotsu,1863521
-adrar,2508813
-genhe,2037252
-dunedin,2191562
-ereymentau,1524302
-norwich,2641181
-mitchelstown,2962587
-meulaboh,1214488
-mombetsu,2129163
-qasigiannguit,3420768
-antipovka,581540
-saint-augustin,6138501
-kawalu,1640902
-amberley,2193968
-colares,2269142
-bathsheba,3374083
-sabinas hidalgo,3988327
-ragonvalia,3671018
-luganville,2136150
-norman wells,6089245
-inhambane,1045114
-lahat,1638775
-hailey,5594956
-satipo,3928924
-long xuyen,1575627
-sumenep,1626099
-cerrito,3686907
-alcantara,1731594
-beira,3119841
-narsaq,3421719
-japura,1642773
-ambon,3037899
-broken hill,2173911
-elizabethton,4620634
-anta,3947634
-jijiga,333795
-camacha,2270385
-talcahuano,3870282
-tecolutilla,3516149
-mitsamiouli,921786
-skagen,2696329
-navalgund,1261800
-ribeira brava,2263905
-napasar,1261882
-ryotsu,1853371
-leshukonskoye,535839
-viani,3672698
-paharpur,1168633
-beyneu,610298
-monterey,5374361
-nishihara,1850144
-paragominas,3393106
-la rioja,3848950
-nelipyno,700341
-port neches,4720072
-prince albert,6113335
-longview,4707814
-ilam,130802
-baikunthpur,1277769
-novokizhinginsk,2018930
-vestmanna,2610343
-zyryanka,2119283
-potosi,3907584
-najran,103630
+mataura,6201424
+chokurdakh,2126123
 beringovskiy,2126710
-goderich,5962442
-zhezkazgan,1516589
-geraldton,5960603
-hua hin,1153269
-yarensk,468983
-khani,610864
-mahibadhoo,1337605
-west bay,6173331
-carballo,3126369
-vostok,2013279
-puerto del rosario,2512186
-palmares do sul,3455461
-mishkino,543018
-anloga,2304548
-le robert,2984701
+tolaga bay,2180991
+wajir,178443
+egvekinot,4031742
+albany,5106834
+punta arenas,3874787
+yar-sale,1486321
+cherskiy,2126199
+waipawa,2185329
+hobart,2163355
+bluff,2175403
+ushuaia,3833367
+tuatapere,2180815
+bowen,2174444
+bereznik,577240
+kaitangata,2208248
+fortuna,5563839
+butaritari,2110227
+usinsk,863061
+qaanaaq,3831208
+norman wells,6089245
+aksarka,1512019
 khandyga,2022773
-kyshtovka,1501000
-nanlong,1799908
-palmer,2067070
-otaru,2128574
-poum,787487
-araouane,2460954
-wattegama,1241622
-iqaluit,5983720
-tromso,3133895
-tumen,2034340
-escalerillas,3980621
-naryan-mar,523392
-valley falls,4280917
-gwadar,1177446
-jaffna,1242833
-camopi,3382226
-san carlos,3616911
-taitung,1668295
-saint anthony,5606187
-linxia,1803331
-san andres,1690438
-ojinaga,3994469
-aktau,610612
-erenhot,2037485
-brasilia,3459342
-bilibino,2126682
+japura,1642773
+arraial do cabo,3471451
+khatanga,2022572
 noumea,2139521
-mahon,2965139
-yatou,2225940
-mezen,527321
-pontalina,3453158
-jamkhandi,1269328
-karasjok,779350
-sadiqabad,1166652
-belaya gora,2126785
-sawtell,2150163
+tuktoyaktuk,6170031
+busselton,2075265
+oranjemund,3354071
+cape town,3369157
+provideniya,4031574
+kapaa,5848280
+longyearbyen,2729907
+port augusta,2063056
+garmsar,32723
+axim,2303611
+new norfolk,2155415
+avera,4231997
+dunedin,2191562
+ahipara,2194098
+kununurra,2068110
+port elizabeth,4501427
+carberry,5916706
+hulan,128226
+ngawen,1634100
+rawson,3839307
+dikson,1507390
+vestmannaeyjar,3412093
+westport,4845585
+road town,3577430
+georgetown,3378644
+tasiilaq,3424607
+svetlaya,2015852
+devarkonda,1273109
+ca mau,1586443
+praia da vitoria,3372760
+thompson,6165406
+skelleftea,602913
+port-cartier,6111696
+mar del plata,3863379
+chimore,3920736
+san buenaventura,3987500
+port lincoln,2063036
+pevek,2122090
+upernavik,3418910
+madera,5369568
+marystown,6067472
+airai,1651810
+hilo,5855927
+nantucket,4944903
+cidreira,3466165
+ponta do sol,3453439
+kushiro,2129072
+scarborough,2638419
+saskylakh,2017155
+avarua,4035715
+carroll,2172210
+sioux lookout,6148373
+tiksi,2015306
+isangel,2136825
+rikitea,4030556
+port alfred,964432
+buala,2109528
+vladeni,662635
+tessalit,2449893
+kysyl-syr,2021017
+hermanus,3366880
+lagoa,2267254
+nanakuli,5851349
+nagato,1899102
+salinopolis,3389822
+ewo,2260009
+atuona,4020109
+hualmay,3939761
 portland,4975802
-bumbuna,2409829
-christchurch,2192362
-resistencia,3429577
-doha,290030
-carlos chagas,3466931
+kerema,2094144
+heishan,2036959
+veraval,3031871
+bethel,5880568
+mount gambier,2156643
+yellowknife,6185377
+cayenne,3382160
+turzovka,3057069
+narsaq,3421719
+tigil,2120612
+saldanha,2737599
+sao filipe,3374210
+pramanta,254746
+faya,110690
+vardo,4372777
+los llanos de aridane,2514651
+grindavik,3416888
+puerto ayora,3652764
+prince george,6113365
+vao,588365
+kodiak,4407665
+nouadhibou,2377457
+cabo san lucas,3985710
+vanimo,2084442
+itoman,1861280
+poum,787487
+victoria,1733782
+belmonte,8010472
+alyangula,2079582
+jamestown,2069194
+olinda,2154386
+jobat,1268875
+hobyo,57000
+san patricio,3437029
+katsuura,1865309
+yumen,1528998
+tarabuco,3903391
+malartic,6064704
+chuy,3443061
+abu dhabi,292968
+hami,1529484
+elizabeth city,4465088
+carnarvon,1014034
+saint-philippe,6138908
+laishevo,537158
+hasaki,2112802
+liwale,155921
+puerto baquerizo moreno,3652758
+nea ankhialos,256627
+oruro,3909234
+lebu,344979
+bethanien,3358416
+kolondieba,2454934
+jaltenango,3532856
+ribeira grande,3372707
+severo-kurilsk,2121385
+port angeles,5807212
+laizhou,1804578
+souillac,3026644
+klaksvik,2618795
 rio gallegos,3838859
+maceio,3395981
+centenario do sul,3466470
+bani,34915
+esperance,2071860
+springbok,3361142
+labuhan,1641899
+birjand,140463
+acajutla,3587498
+montepuez,1037125
+faanui,4034551
+borogontsy,2026160
+huaraz,3696378
+moron,3720455
+prince rupert,6113406
+karpogory,552256
+birur,1275488
+amambai,3472391
+belgaum,1276533
+liku,1633034
+cockburn town,3576994
+bodden town,3580733
+nanortalik,3421765
+bambous virieux,1106677
+ancud,3899695
+mogadishu,53654
+ambon,3037899
+vila velha,6320062
+bafia,2235194
+auki,2339937
+domna,2024893
+puerto leguizamo,3671437
+bagdarin,2027244
+piacabucu,3454005
+villarrica,3868158
+saint-joseph,3037456
+gat,2249901
+aripuana,3665202
+tateyama,1849876
+carmen,1718337
 lorengau,2092164
-chauk,1327659
-montreal,6077243
-lata,1253628
-moose jaw,6078112
-pangai,4032369
-grahamstown,1000501
-sayyan,70979
-omsukchan,2122493
-pangoa,3933104
+arman,2127060
+lichuan,1803782
+kitaibaraki,2112232
+morwell,2156825
+namatanai,2090021
+codrington,2160063
+san cristobal,3609418
+kavieng,2094342
+touros,3386213
+tikamgarh,1254534
+ialibu,2095925
+quatre cocos,1106643
+san jose,3602137
+santiago del estero,3835869
+arraias,3454606
+xingyi,1787599
+torbay,6167817
+kurumkan,2021188
+lompoc,5367788
+geraldton,5960603
+hithadhoo,1282256
+ahuimanu,5856516
+ucluelet,6171633
+warri,2319133
+praya,1630662
+panama city,4167694
+coihaique,3894426
+kaohsiung,1673820
+shenjiamen,1795632
+bibbiena,3182059
+swan river,6160362
+esil,1524296
+marquette,5000947
+haines junction,5969025
+batemans bay,2176639
+castro,3896218
+mhasla,1255619
+port-gentil,2396518
+mehamn,778707
+talnakh,1490256
+osorno,3877949
+samus,1493110
+abilene,4669635
+quimper,2984701
+saint george,262462
+iqaluit,5983720
+yuksekova,296173
+svetlogorsk,584051
+christchurch,2192362
+conakry,2422465
+huangmei,1807339
+luanda,2240449
+camacari,3468031
+rocha,3440777
+iracoubo,3381428
+wakkanai,2127515
+mandalgovi,2030065
+ternate,1682474
+manta,685981
+sao joao da barra,3448903
+viedma,3832899
+belyy yar,1510377
+lae,2092740
+wadena,6174914
+toora-khem,1489401
+sitka,4267710
+kruisfontein,986717
+ilulissat,3423146
+aykhal,2027296
+tautira,4033557
+hargeysa,57289
+torrevieja,2510253
+goure,2444219
+danilovka,567177
+eugene,5725846
+salalah,286621
+tsumeb,3352593
+mago,2123621
+merauke,2082539
+hofn,2630299
+san francisco,3669881
+xining,1788852
+kirakira,2178753
+high level,5975004
+moose factory,6078372
+nouakchott,2377450
+alihe,2038665
+damara,2387435
+zabid,69559
+luderitz,3355672
+isla mujeres,3526756
+nyurba,2018735
+qaqortoq,3420846
+half moon bay,5354943
+san rafael del sur,3616594
+caravelas,3466980
+ciudad bolivar,3645532
+kupang,2057087
+dongsheng,1788268
+hambantota,1244926
+coro,3645213
+bulakamba,1647834
+ukwa,2349360
+kaeo,2189343
+nikolskoye,546105
+oriximina,3393471
+leshukonskoye,535839
+yulara,6355222
+naze,2337542
+betsiamites,6945992
+plerin,2986795
+roebourne,2062276
+tutoia,3385899
+otjimbingwe,3353871
+clyde river,5924351
+ampanihy,1078553
+celendin,3698608
+gaoual,2420826
+namibe,3347019
+meadow lake,6071421
+ambilobe,1082243
+casay,1709159
+wageningen,2745088
+igboho,2338711
+coruche,2268946
+belaya gora,2126785
+gisborne,2206854
+morrope,3694586
+cururupu,3401148
+antalaha,1071296
+mecca,104515
+chifeng,2038067
+ostrovnoy,556268
+wattegama,1241622
+petropavlovsk-kamchatskiy,2122104
+orthez,2989187
+zhezkazgan,1516589
+sungaipenuh,1625929
+tshane,933726
+tabu,99097
+tsiroanomandidy,1054463
+los angeles,5368361
 alice springs,2077895
-maniitsoq,3421982
+luba,1705460
+kavaratti,1267390
+saint-francois,2980080
+raipur,1258980
+algiers,4335045
+longhua,1805798
+muana,3394326
+nome,4732862
+itaituba,3397967
+guerrero negro,4021858
+kingaroy,2161376
+udachnyy,2014624
+huambo,3348313
+arkhipo-osipovka,580969
+tairua,2182010
+saint-pierre,2995603
+namtsy,2019488
+kandrian,2094746
+tokyo,1850147
+havelock,4470244
+jian,1259047
+cabedelo,3404558
+lufilufi,4035249
+kedrovyy,1538641
+college,5859699
+giyon,336372
+porto novo,6322184
+fairfield,5347335
+brigantine,4500920
+boa vista,3664980
+el tocuyo,3641275
+pangnirtung,6096551
+malinovoye ozero,1499779
+yakeshi,2033536
+beaupre,6325479
+taltal,3870243
+umm kaddadah,364933
+paamiut,3421193
+sturgeon bay,5274867
+grand-santi,3381538
+beyla,2423126
+atar,2381334
+dzitas,3529652
+bento goncalves,3470073
+walvis bay,3359638
+lamu,1791522
+byron bay,2172880
+jiayuguan,1280957
+vostok,2013279
+uruzgan,1131462
+ramshir,118805
+kuito,3348078
+luau,876177
+krasnosilka,694216
+manicore,3663503
+riyadh,108410
+orlik,3102488
+mayo,6068416
+bilibino,2126682
+bitung,1648636
+ust-nera,2120048
+hay river,5972762
+donzdorf,2936186
+kailua,5847486
+bandarbeyla,64814
+beidao,1816751
+abu samrah,172515
+mount isa,2065594
+acapulco,3533462
+baykit,1510689
+benghazi,88319
+naryan-mar,523392
+belle glade,4147241
+ajdabiya,89113
+lopandino,534245
+kutum,371745
+srednekolymsk,2121025
+iquique,3887127
+cap malheureux,934649
+wajima,1848976
+luancheng,1802204
+pontianak,1630789
+strezhevoy,1490796
+uhlove,690820
+la rioja,3848950
+ilheus,3461408
+bilma,2446796
+sohag,347796
+le port,3036965
+kholtoson,2022369
+bauchi,2347470
+bundaberg,2173323
+bratsk,2051523
+ancona,4912698
+rassvet,528075
+strelka,1490805
+tiarei,4033356
+sindor,492860
+tilichiki,2120591
+mutoko,884927
+taunggyi,1293960
+novaya igirma,2019004
+paramonga,3933024
+mattru,2409215
+tarauaca,3661980
+tupilati,664487
+batagay,2027044
+carnduff,5917349
+rundu,3353383
+kulhudhuffushi,1337613
+broome,2656067
+vaitape,4033077
+gilgit,1178338
+sosnogorsk,490391
+luebo,210939
+grosseto,6541868
+adrar,2508813
+taga,1629380
+pemba,1028918
+aklavik,5882953
+enshi,1811720
+golden gate,4238081
+otautau,2185296
+jumla,1283285
+kahului,5847411
+kosovo polje,3187681
+villa union,3915350
+arlit,2447513
+balkhash,1525798
+dingle,1714733
+evinayong,2308994
+talcher,1255143
+tahoua,2439376
+falkenberg,3220856
+east london,1006984
+ust-kuyga,2013921
+noyon,2989877
+general roca,3855065
+muhoroni,185939
+kirkwall,2645198
+sabang,1726279
+sechura,3691954
+ponta delgada,3372783
+laguna,3581398
+yeppoon,2142316
+cruz grande,3530066
+arouca,8010416
+mahebourg,934322
+deputatskiy,2028164
+ulladulla,2145554
+qasigiannguit,3420768
+alekseyevsk,2022083
+malaya vishera,531257
+aden,415189
+quiruvilca,3698705
+siocon,1724435
+buchanan,2278158
+landerneau,3007874
+nosy varika,1058080
+mahuta,878121
+komsomolskiy,1486910
+kologriv,546282
+jambi,1642858
+mitchell,5229794
+peniche,2264923
+kyabe,2429344
+itarema,3393692
+mackenzie,6063191
+la ronge,6050066
+samana,3655185
+anito,1730622
+roald,3141667
+santa rosa,3835994
+astoria,5711847
+yermakovskoye,1485904
+fortuna foothills,5295143
+fukue,1848373
+allapalli,1278987
+hirado,1862555
+utete,149070
+shingu,1847947
+takoradi,2294915
+khasan,2039557
+makat,608872
+tomatlan,3981391
+carutapera,3402648
